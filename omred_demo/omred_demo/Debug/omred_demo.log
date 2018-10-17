@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  omred_demo.vcxproj -> C:\Users\Andrew\source\repos\omred_demo\Debug\omred_demo.exe
+c:\users\andrew\desktop\omred\omred_demo\omred_demo\main.cpp(1): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
