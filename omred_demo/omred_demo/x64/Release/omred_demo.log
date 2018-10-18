@@ -1,5 +1,4 @@
 ﻿  main.cpp
-  Создание кода
-  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Создание кода завершено
-  omred_demo.vcxproj -> C:\Users\Andrew\source\repos\omred_demo\x64\Release\omred_demo.exe
+  player.cpp
+c:\users\andrew\desktop\omred\omred_demo\omred_demo\src\player.cpp(5): error C2011: hero: переопределение типа "class"
+  c:\users\andrew\desktop\omred\omred_demo\omred_demo\include\player.h(4): note:  см. объявление "hero"

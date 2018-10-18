@@ -13,10 +13,45 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Файлы заголовков\src">
+      <UniqueIdentifier>{5a8ad1da-c4ca-4689-9d66-939045cb051e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\include">
+      <UniqueIdentifier>{4d9dac9f-4a2f-42f1-928d-7930bed08845}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClCompile>
+    <ClCompile Include="src\player.cpp">
+      <Filter>Файлы заголовков\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Deck_Player.cpp">
+      <Filter>Файлы заголовков\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\player.h">
+      <Filter>Файлы заголовков\include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Deck_Player.h">
+      <Filter>Файлы заголовков\include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Global_Deck.h">
+      <Filter>Файлы заголовков\include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Card_Stack_On_Hand.h">
+      <Filter>Файлы заголовков\include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Inentory_Deck.h">
+      <Filter>Файлы заголовков\include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Card.h">
+      <Filter>Файлы заголовков\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Effects.h">
+      <Filter>Файлы заголовков\include</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

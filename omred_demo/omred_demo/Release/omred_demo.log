@@ -1,5 +1,6 @@
-﻿  main.cpp
-  Создание кода
-  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+﻿  Создание кода
+  4 of 4 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
-  omred_demo.vcxproj -> C:\Users\Andrew\source\repos\omred_demo\Release\omred_demo.exe
+  omred_demo.vcxproj -> C:\Users\Andrew\Desktop\omred\omred_demo\Release\omred_demo.exe
